@@ -6,4 +6,4 @@ dotnet build
 dotnet run
 ```
 
-It will report the cpu usage and will match up with task manager.
+It will report the cpu usage % of the process and will match up with task manager.
